@@ -1,6 +1,0 @@
-framework module LV_BleSdk {
-  umbrella header "LV_BleSdk.h"
-
-  export *
-  module * { export * }
-}
